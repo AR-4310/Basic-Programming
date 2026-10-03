@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+    margin: auto;
+    text-align: center;
+}
+
+#l1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5 em;
+    font-style: normal;
+    color:black
+}
+
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+#convert{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    background-color: red;
+}
