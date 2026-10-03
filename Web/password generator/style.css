@@ -1,0 +1,38 @@
+body{
+    background-color:aliceblue;
+    text-align:center;
+    padding: 100px;
+}
+
+#l1{
+    font-size:30px;
+    font-weight:bold;
+    margin:auto;
+}
+
+#l2{
+    font-size:20px;
+    font-weight:bold;
+    margin:auto;
+    padding-right: 180px;
+}
+
+#length{
+    width:200px;
+    height:30px;
+    border-radius:5px;
+    border:1px solid black;
+    text-align:center;
+}
+
+#btn{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: burlywood;
+    padding: 5px;
+    font-weight: bold;
+}
+
+#btn:hover{
+    background-color: black;
+}
