@@ -3,12 +3,12 @@ import {
   IsString, 
   IsInt, 
   IsNotEmpty, 
-  MaxLength, 
+  MaxLength, //character length
   MinLength, 
-  Max, 
+  Max,  //number length
   Min, 
   IsEmail, 
-  IsBoolean, // Fixed typo: 'IsBoolen' -> 'IsBoolean'
+  IsBoolean, 
   Matches, 
 } from 'class-validator'; 
 
